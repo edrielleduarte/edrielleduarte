@@ -6,6 +6,7 @@
 <p>💻  <strong>Ferramentas: </strong> VSCode, Git, GitHub e PyCharm. </p>
 <p>💼 Estagiária Developer front-end e RPA na empresa Grupo Águia Branca. </p>
 
+<p> Preparada sempre para novos desafios, caso deseja conversar, é só me enviar mensagem. </p>
 
 <p align="left">
   <a href="#" alt="Gmail">
