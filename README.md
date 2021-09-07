@@ -1,6 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<p> 👋 Ola, meu nome é <strong>Edrielle Duarte</strong>. Sou developer em formação front-end e RPA. Estou no 4 semestre de Análise e Desenvolvimento de Sistemas</p>
+<p> 😎 Ola, meu nome é <strong>Edrielle Duarte</strong>. Sou developer em formação front-end e RPA. Estou no 4 semestre de Análise e Desenvolvimento de Sistemas</p>
 <p> 👩‍💻 <strong>Habilidades:</strong> HTML, CSS, JavaScript, CSS, Python, C/C++. </p>
 <p>📚  <strong>Aprendizado:</strong> GoLang, Angular, React, TypeScript e logo mais Django. </p>
 <p>💻  <strong>Ferramentas: </strong> VSCode, Git, GitHub e PyCharm. </p>
