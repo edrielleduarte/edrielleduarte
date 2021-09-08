@@ -3,7 +3,7 @@
 <p> 😎 Ola, meu nome é <strong>Edrielle Duarte</strong>. Sou developer em formação front-end e RPA. Estou no 4º semestre de Análise e Desenvolvimento de Sistemas</p>
 <p> 👩‍💻 <strong>Habilidades:</strong> HTML, CSS, JavaScript, CSS, Python, C/C++. </p>
 <p>📚  <strong>Aprendizado:</strong> GoLang, Angular, React, TypeScript e logo mais Django. </p>
-<p>💻  <strong>Ferramentas: </strong> VSCode, Git, GitHub e PyCharm. </p>
+<p>💻  <strong>Ferramentas: </strong> VSCode, Git, GitHub, GitLab e PyCharm. </p>
 <p>💼 <strong>Estagiária</strong> Developer front-end e RPA na empresa Grupo Águia Branca. </p>
 
 <p> Preparada sempre para novos desafios, caso deseja conversar, é só me enviar mensagem. </p>
