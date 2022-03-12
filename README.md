@@ -4,7 +4,7 @@
 <p> 👩‍💻 <strong>Habilidades:</strong> HTML, CSS, JavaScript, Python, C/C++, Angular, TypeScript.</p>
 <p>📚  <strong>Aprendizado:</strong> GoLang, React e logo mais Django. </p>
 <p>💻  <strong>Ferramentas: </strong> VSCode, Git, GitHub, GitLab e PyCharm. </p>
-<p>💼 <strong>Estagiária</strong> Developer front-end e RPA na empresa Grupo Águia Branca. </p>
+<p>💼 <strong>Developer Full Stack</strong> na empresa Grupo Águia Branca. </p>
 
 <p> Preparada sempre para novos desafios, caso deseja conversar, é só me enviar mensagem. </p>
 
