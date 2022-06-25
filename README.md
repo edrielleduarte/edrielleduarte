@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p> 😎 Ola, meu nome é <strong>Edrielle Duarte</strong>. Sou Full Stack Developer. Estou no 5º semestre de Análise e Desenvolvimento de Sistemas</p>
 <p> 👩‍💻 <strong>Habilidades:</strong> HTML, CSS, JavaScript, Python, C/C++, Automation Anywhere, UiPath, Node.js, Angular.</p>
-<p>📚  <strong>Aprendizado:</strong> GoLang, React e logo mais Django. </p>
-<p>💻  <strong>Ferramentas: </strong> VSCode, Git, GitHub, GitLab e PyCharm. </p>
+<p>📚  <strong>Aprendizado:</strong> GoLang, React, Django. </p>
+<p>💻  <strong>Ferramentas: </strong> VSCode, Git, GitHub, GitLab, Jenkins, SQL, Azure DevOps e PyCharm. </p>
 <p>💼 <strong>Developer Full Stack</strong> na empresa Grupo Águia Branca. </p>
 
 <p> Preparada sempre para novos desafios, caso deseja conversar, é só me enviar mensagem. </p>
